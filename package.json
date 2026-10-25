@@ -1,0 +1,17 @@
+{
+  "name": "hassan-abuzead",
+  "version": "1.0.0",
+  "description": "وكيل ذكي بسيط يجيب باللغة العربية",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.3.310"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.15"
+  }
+}
